@@ -1,0 +1,27 @@
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\DuplicateAdvisorMatchApp.exe.config
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\DuplicateAdvisorMatchApp.exe
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\DuplicateAdvisorMatchApp.pdb
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.dll
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.xml
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\obj\Debug\DuplicateAdvisorMatchApp.exe
+C:\Users\PaulD\Documents\Visual Studio 2015\Projects\FindDupEntries\FindDupEntries\obj\Debug\DuplicateAdvisorMatchApp.pdb
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\DuplicateAdvisorMatchApp.exe.config
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\obj\Debug\DuplicateAdvisorMatchApp.exe
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\obj\Debug\DuplicateAdvisorMatchApp.pdb
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\DuplicateAdvisorMatchApp.exe
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\DuplicateAdvisorMatchApp.pdb
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.BulkInsert.dll
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.dll
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.MappingAPI.dll
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.xml
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.BulkInsert.pdb
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.MappingAPI.pdb
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PaulD\Documents\GitHub\DuplicateNameMatcher\DuplicateNameMatcher\obj\Debug\DuplicateAdvisorMatchApp.csprojResolveAssemblyReference.cache
